@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingMadeEasy/ItemDictionaryTVC.swift"
+            timestampString = "516029416.997003"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingMadeEasy/ItemDictionaryTVC.swift"
+            timestampString = "516029416.997003"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "filteredContentForSearchBar(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingMadeEasy.ItemDictionaryTVC.filteredContentForSearchBar (searchText : Swift.String) -&gt; ()"
+                  moduleName = "ShoppingMadeEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvatripathi/Desktop/ShoppingMadeEasy-Search/ShoppingMadeEasy/ItemDictionaryTVC.swift"
+                  timestampString = "516002768.604152"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingMadeEasy.ItemDictionaryTVC.(filteredContentForSearchBar (searchText : Swift.String) -&gt; ()).(closure #1)"
+                  moduleName = "ShoppingMadeEasy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apurvatripathi/Desktop/ShoppingMadeEasy-Search/ShoppingMadeEasy/ItemDictionaryTVC.swift"
+                  timestampString = "516002768.606879"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

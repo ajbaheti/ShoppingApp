@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stores</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Target</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Walmart Supercenter</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Kohl&apos;s Henrietta</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>JCPenney</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Bed Bath &amp; Beyond</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Marshalls</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Sears</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Christopher &amp; Banks</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Walmart Pharmacy</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Sunglass Hut at Macy&apos;s</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>department_store</string>
+			<key>name</key>
+			<string>Sears Hearing Aid Center</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Valero</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>FASTRAC MARKETS</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Speedway</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Rite Aid</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Red Apple Food Marts</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Mobil</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>Fastrac</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>24 Seven Convenience</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>convenience_store</string>
+			<key>name</key>
+			<string>7-Eleven</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>electronics_store</string>
+			<key>name</key>
+			<string>Best Buy</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>electronics_store</string>
+			<key>name</key>
+			<string>BJ’s Wholesale Club</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>electronics_store</string>
+			<key>name</key>
+			<string>OfficeMax</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>electronics_store</string>
+			<key>name</key>
+			<string>Sam&apos;s Club</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>furniture_store</string>
+			<key>name</key>
+			<string>The Home Depot</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>furniture_store</string>
+			<key>name</key>
+			<string>Lowe&apos;s Home Improvement</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>furniture_store</string>
+			<key>name</key>
+			<string>Ruby-Gordon Furniture</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>furniture_store</string>
+			<key>name</key>
+			<string>buybuy BABY</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>furniture_store</string>
+			<key>name</key>
+			<string>Raymour &amp; Flanigan Furniture and Mattress Store</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>home_goods_store</string>
+			<key>name</key>
+			<string>Sleep City</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>store</string>
+			<key>name</key>
+			<string>Baby Depot</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>store</string>
+			<key>name</key>
+			<string>Ulta Beauty</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>store</string>
+			<key>name</key>
+			<string>Whitehouse Liquor &amp; Wine</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>pharmacy</string>
+			<key>name</key>
+			<string>Wegmans Pharmacy</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>pharmacy</string>
+			<key>name</key>
+			<string>CVS Pharmacy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
